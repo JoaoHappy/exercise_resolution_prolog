@@ -1,0 +1,1 @@
+# exercise_resolution_prolog
